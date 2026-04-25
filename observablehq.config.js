@@ -1,7 +1,7 @@
 // See https://observablehq.com/framework/config for documentation.
 export default {
   // The app’s title; used in the sidebar and webpage titles.
-  title: "Ramamurthi Framework",
+  title: "Ramamurthi Framework",  // ← change this to whatever you want
   theme: "ink",
 
   // The pages and sections in the sidebar. If you don’t specify this option,
